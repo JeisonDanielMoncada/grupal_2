@@ -32,3 +32,6 @@
 6. **Servir**
    - Retira la pizza del horno y déjala enfriar un poco.
    - Corta la pizza en porciones y ¡disfrútala!
+
+
+7. ** Decir que es Italiana y venderla por $$ 5o USD**
