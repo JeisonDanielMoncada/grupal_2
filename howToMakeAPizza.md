@@ -1,5 +1,6 @@
 
 1. **Ingredientes**
+   - Comprar masa
    - 1 ½ tazas de harina
    - 1 cucharadita de levadura seca
    - 1 cucharadita de azúcar
@@ -12,7 +13,7 @@
 
 2. **Preparación de la masa**
    - En un tazón, combina la harina, la levadura, el azúcar y la sal.
-   - Agrega el agua tibia y el aceite de oliva a la mezcla.
+   - Agrega el agua tibia y el aceite de soya a la mezcla.
    - Mezcla bien hasta formar una masa suave y elástica.
    - Cubre el tazón con un paño y deja que la masa repose durante 1 hora hasta que duplique su tamaño.
 
@@ -27,7 +28,7 @@
    - Agrega los ingredientes adicionales de tu elección, como pepperoni, champiñones, pimientos, etc.
 
 5. **Horneado**
-   - Coloca la pizza en el horno precalentado y hornea durante 12-15 minutos, o hasta que la masa esté dorada y el queso esté burbujeante y ligeramente dorado.
+   - Coloca la pizza en el horno precalentado y hornea durante 10-15 minutos, o hasta que la masa esté dorada y el queso esté burbujeante y ligeramente dorado.
 
 6. **Servir**
    - Retira la pizza del horno y déjala enfriar un poco.
