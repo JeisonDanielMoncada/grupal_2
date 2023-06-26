@@ -30,3 +30,8 @@
 
 8.	Cuando el queso esté algo derretido, añade el tomate fresco cortado en finas rodajas. Puedes cortarlo con el cuchillo o bien utilizar cuidadosamente una mandolina. Lleva tu pizza napolitana al horno nuevamente por unos 5 minutos. Si lo deseas, puedes terminar su cocción en la parrilla del horno para que el queso se gratine.
 9.	Termina la pizza napolitana decorándola con las aceitunas cortadas en rodajas y el orégano. También puedes agregar un hilo de aceite de oliva si lo deseas.
+
+
+ Bibliografía
+Alberca, A. S. (2023). Introducción a GITIntroducción a GIT. Aprendeconalf.es. https://aprendeconalf.es/docencia/git/manual/manual-git.pdf
+
